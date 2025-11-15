@@ -115,36 +115,7 @@ QQ群 5：734794540
 
 目前正在使用最新技术重构最新版，最新本也将优先在本群发布。
 
-本人微信：lanyulei666
 
-## 战略合作
-
-* [VForm 一款高效的Vue 2 / Vue3 的低代码表单可视化设计，一键生成源码，享受更多摸鱼时间](https://vform666.com/vform3.html)
-
-## 特别感谢
-* [go-admin # 不错的后台开发框架](https://github.com/go-admin-team/go-admin)
-
-* [vue-element-admin # 不错的前端模版框架](https://github.com/PanJiaChen/vue-element-admin)
-
-* [vue-form-making # 表单设计器，开源版本比较简单，如果有能力的话可以自己进行二次开发 ](https://github.com/GavinZhuLei/vue-form-making.git)
-
-* [wfd-vue # 流程设计器](https://github.com/guozhaolong/wfd-vue)
-
-* [machinery # 任务队列](https://github.com/RichardKnop/machinery.git)
-
-等等...
-
-## 打赏
-
-> 如果您觉得这个项目帮助到了您，您可以请作者喝一杯咖啡表示鼓励:
-
-[打赏名人榜](https://www.fdevops.com/docs/ferry-tutorial-document/reward-celebrity-list)
-
-<img class="no-margin" src="https://www.fdevops.com/wp-content/uploads/2020/07/1595075890-81595075871_.pic_hd.png"  height="200px" >
-
-## 鸣谢
-
-特别感谢 [JetBrains](https://www.jetbrains.com/?from=ferry) 为本开源项目提供免费的 [IntelliJ GoLand](https://www.jetbrains.com/go/?from=ferry) 授权
 
 <p>
  <a href="https://www.jetbrains.com/?from=ferry">
