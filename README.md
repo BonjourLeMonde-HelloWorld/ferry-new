@@ -29,39 +29,7 @@
 
 可通过变量设置处理人，例如：直接负责人、部门负责人、HRBP等变量数据。
 
-**系统管理**
 
-基于casbin的RBAC权限控制，借鉴了go-admin项目的前端权限管理，可以在页面对API、菜单、页面按钮等操作，进行灵活且简单的配置。
-
-[//]: # (演示demo: [http://fdevops.com:8001/#/dashboard]&#40;http://fdevops.com:8001/#/dashboard&#41;)
-
-[//]: # (```)
-
-[//]: # (账号：admin)
-
-[//]: # (密码：123456)
-
-[//]: # ()
-[//]: # (演示demo登陆需要取消ldap验证，就是登陆页面取消ldap的打勾。)
-
-[//]: # (```)
-
-文档: [https://www.fdevops.com/docs/ferry](https://www.fdevops.com/docs/ferry-tutorial-document/introduction)
-
-视频教程（由群内好友<稳定>提供，非常感谢。）：
-
-* ferry工单系统需要的软件准备 https://www.bilibili.com/video/BV1sA411s7jE
-* ferry源代码下载后第一次运行 https://www.bilibili.com/video/BV1oy4y1v7LR
-
-```
-需注意，因有人恶意删除演示数据，将可删除的数据全都删除了，因此演示的Demo上已经将删除操作的隐藏了。
-
-但是直接在Github或者Gitee下载下来的代码是完整的，请放心。
-
-如果总是出现此类删除数据，关闭演示用户的情况的话，可能考虑不在维护demo，仅放置一些项目截图。
-
-请大家一起监督。
-```
 
 ## 功能介绍
 
